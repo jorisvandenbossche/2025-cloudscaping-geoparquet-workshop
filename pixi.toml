@@ -1,0 +1,19 @@
+[workspace]
+authors = ["Joris Van den Bossche <jorisvandenbossche@gmail.com>"]
+channels = ["conda-forge"]
+name = "2025-cloudscaping-geoparquet-workshop"
+platforms = ["linux-64", "osx-arm64", "osx-64", "win-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+jupyterlab = ">=4.4.10,<5"
+geopandas = ">=1.1.1,<2"
+pyarrow = ">=22.0.0,<23"
+duckdb = ">=1.4.1,<2"
+lonboard = ">=0.11.1,<0.13"
+overturemaps = ">=0.17.0,<0.18"
+libgdal-arrow-parquet = ">=3.11.4,<4"
+geoarrow-pyarrow = ">=0.2.0,<0.3"
+
