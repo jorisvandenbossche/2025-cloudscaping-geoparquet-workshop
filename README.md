@@ -14,6 +14,8 @@ will give a brief overview of what makes file formats cloud optimized and the
 different options for vector data, and then dive deeper specifically into
 GeoParquet, illustrating it with practical examples using Python.
 
+Slides: https://jorisvandenbossche.github.io/2025-cloudscaping-geoparquet-workshop
+
 ## Run the code yourself
 
 First, download this repository (click the green button above, or use `git clone`).
