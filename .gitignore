@@ -1,3 +1,11 @@
 # pixi environments
 .pixi/*
 !.pixi/config.toml
+
+# Jupyter
+.ipynb_checkpoints/*
+
+# big data files
+part-00141-c5e0b5f2-08ff-4192-af19-c572ecc088f1-c000.zstd.parquet
+part-00141.fgb
+
